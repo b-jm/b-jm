@@ -1,5 +1,6 @@
 ## 안녕하세요 👋
 
+- 백엔드 개발자 '복지민'입니다.
 <!--
 **b-jm/b-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
