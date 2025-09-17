@@ -3,7 +3,8 @@
  📌 Blog : https://b-jm.tistory.com <p>
  📧 Email : bokjimin143@gmail.com
 
-
+#### Studying ✏️
+ Java, Spring Boot, MySQL
 
 <!--
 **b-jm/b-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
