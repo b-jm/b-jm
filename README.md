@@ -1,5 +1,5 @@
 #### information 📝
- 백엔드 개발자 복지민입니다. ✌️ <p>
+> 백엔드 개발자 복지민입니다. ✌️ <p>
  📌 Blog : https://b-jm.tistory.com <p>
  📧 Email : bokjimin143@gmail.com
 
