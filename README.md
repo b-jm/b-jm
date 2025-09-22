@@ -4,10 +4,8 @@
  📧 Email : bokjimin143@gmail.com
 
 #### Studying ✏️
- java, spring boot, mysql
+ java, spring boot, mysql, aws, docker
 
-#### things to study 📝
- aws, docker
 
 <!--
 **b-jm/b-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
